@@ -41,10 +41,18 @@ $   sudo apt-get install libpq-dev
 $   gem install pg  
 ```
 
-## Run rails  
+## Run the server
 
 ```bash
 $   rails s    
+```
+
+## Run rails
+
+- After Runing rails s visit http://localhost:3000/ in your browser!
+
+```bash
+$   http://localhost:3000/ # to see your changes in action.
 ```
 
 ## Generate Controller
